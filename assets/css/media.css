@@ -9,6 +9,16 @@
     .homepg>.hometxt{
         padding: 30px 0px;
     }
+    .icons>i{
+        margin-right: 2px;
+    }
+    .menus{
+        display: none;
+        margin-top: -15px;
+    }
+    #dismenu{
+        display: block;
+    }
 }
 @media(min-width:993px) and (max-width:1200px){
     .colTab1{

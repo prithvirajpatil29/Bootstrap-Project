@@ -115,6 +115,20 @@
 .p-20{
     padding: 20px;
 }
+.logo{
+    display: flex;
+    justify-content: space-between;
+}
+.logo>button{
+    background-color: transparent;
+    border: transparent;
+}
+.logo>button>i{
+    font-size: 25px;
+}
+#dismenu{
+    display: none;
+}
 .menubar>.logo>h3{
     color: #8E8ED8;
     font-size: 25px;
